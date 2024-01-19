@@ -1,4 +1,4 @@
-# llmops
+# LLMOps
 
 Inspired by Maxime Labonne's [llm-course](https://github.com/mlabonne/llm-course), this repo holds a collection of my experiments of LLM quantization, merge, evaluation, and fine-tuning.
 
