@@ -14,3 +14,4 @@ The Colab notebooks are referenced in my blog posts:
 - [FineTuning_Dataset_DataBricks_Mistral7B.ipynb](https://github.com/wenqiglantz/llmops/blob/main/FineTuning_Dataset_DataBricks_Mistral7B.ipynb)
 - [Fine_tune_MistralTrinity_7b_slerp_with_QLoRA_and_Databricks_dataset.ipynb](https://github.com/wenqiglantz/llmops/blob/main/Fine_tune_MistralTrinity_7b_slerp_with_QLoRA_and_Databricks_dataset.ipynb)
 - [Fine_tune_MistralTrinity_7B_slerp_with_DPO.ipynb](https://github.com/wenqiglantz/llmops/blob/main/Fine_tune_MistralTrinity_7B_slerp_with_DPO.ipynb)
+- [Merge_Family_Tree_MistralTrinity_7B_slerp_dpo.ipynb](https://github.com/wenqiglantz/llmops/blob/main/Merge_Family_Tree_MistralTrinity_7B_slerp_dpo.ipynb)
