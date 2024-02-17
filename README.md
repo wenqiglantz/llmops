@@ -9,7 +9,7 @@ The Colab notebooks are referenced in my blog posts:
 - [Eval_for_quantized_models_for_Mistral_7B_Instruct_v0_2.ipynb](https://github.com/wenqiglantz/llmops/blob/main/Eval_for_quantized_models_for_Mistral_7B_Instruct_v0_2.ipynb)
 - [Eval_for_base_model_of_Mistral_7B_Instruct_v0_2.ipynb](https://github.com/wenqiglantz/llmops/blob/main/Eval_for_base_model_of_Mistral_7B_Instruct_v0_2.ipynb)
 
-### [Exploring mergekit for Model Merge, AutoEval for Model Evaluation, and DPO for Model Fine-tuning](https://medium.com/towards-data-science/exploring-mergekit-for-model-merge-and-autoeval-for-model-evaluation-c681766fd1f3?sk=2e4dad6a2315388ddca4a99478ca1792))
+### [Exploring mergekit for Model Merge, AutoEval for Model Evaluation, and DPO for Model Fine-tuning](https://medium.com/towards-data-science/exploring-mergekit-for-model-merge-and-autoeval-for-model-evaluation-c681766fd1f3?sk=2e4dad6a2315388ddca4a99478ca1792)
 - [LazyMergekit.ipynb](https://github.com/wenqiglantz/llmops/blob/main/LazyMergekit.ipynb)
 - [LLM_AutoEval_MistralTrinity_7b_slerp.ipynb](https://github.com/wenqiglantz/llmops/blob/main/LLM_AutoEval_MistralTrinity_7b_slerp.ipynb)
 - [FineTuning_Dataset_DataBricks_Mistral7B.ipynb](https://github.com/wenqiglantz/llmops/blob/main/FineTuning_Dataset_DataBricks_Mistral7B.ipynb)
